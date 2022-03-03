@@ -1,4 +1,4 @@
-# Final Project README
+# Shortest Path Project
 ## Collaborators
 * Aayush Bhat
 * Ojas Mor
@@ -11,10 +11,6 @@
 * Main executable code in `main.cpp`
 * Data for loading tests in `tests_data` folder
 * Main data in `routes.dat`
-* Project Proposal (Goals) in `Project Proposal.md`
-* Development log in `Development Log.md`
-* Results report in `Results.md`
-* Final Presentation on Youtube ([Link Here](https://youtu.be/Ssvj20KYVA0))
 
 ## Build/Running Instructions
 #### Main Executable
